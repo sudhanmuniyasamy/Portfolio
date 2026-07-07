@@ -23,12 +23,3 @@ This project demonstrates my ability to take data from raw ingestion to model de
 * **[Feature 1]:** [e.g., Real-time data preprocessing and missing value imputation.]
 * **[Feature 2]:** [e.g., Custom anchor box optimization for YOLOv5 object detection.]
 * **[Feature 3]:** [e.g., Interactive dashboard for visualizing model evaluation metrics.]
-
-## 📦 Installation & Setup
-
-Follow these steps to get the project running locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SUDHAN2022/](https://github.com/SUDHAN2022/)[your-repo-name].git
-   cd [your-repo-name]

@@ -1,25 +1,29 @@
-# [Project Name]
+# 🎨 UI/UX & Data Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-framer.wiki-blue?style=flat-square)](https://sudhanportfolio.framer.wiki/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhan-0077B5?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/sudhan-m-ms2505)
-[![GitHub](https://img.shields.io/badge/GitHub-SUDHAN2022-181717?style=flat-square&logo=github)](https://github.com/SUDHAN2022)
+[![Portfolio](https://img.shields.io/badge/Design_Portfolio-Built%20with%20Framer-black?style=for-the-badge&logo=framer)](https://sudhanportfolio.framer.wiki/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhan-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/sudhan-m-ms2505)
 
-[Provide a short, punchy 1-2 sentence description of what this project does. E.g., "A deep learning pipeline leveraging YOLOv5 to detect objects in real-time video streams with custom-trained datasets."]
+## 🚀 Overview
+Welcome! I'm **Sudhan**, an AI & Data Science student who bridges the gap between complex data workflows and intuitive user experiences. 
+
+This repository showcases the source code, data pipelines, or documentation behind my work. I handle the entire lifecycle of a project: from wireframing the user journey (**UI/UX Design**) to training the intelligent back-end models (**AI & Data Science**) and bringing it to life on the web (**Framer/Development**).
+
+## 💡 The Hybrid Skillset
+
+* **Data & AI:** Machine Learning pipelines, Computer Vision (YOLOv5), Exploratory Data Analysis (EDA), Python, and Predictive Modeling.
+* **UI/UX & Frontend:** User Research, Wireframing, Information Architecture, Interactive Prototyping, and No-Code/Low-Code development (Framer).
 
 ---
 
-## 🚀 Overview
-Hi, I'm **Sudhan**, an AI & Data Science student. This repository hosts a project focused on [mention the core problem or goal, e.g., "building an automated data pipelines for predictive modeling" or "computer vision architectures"]. 
+## 🎨 My Portfolio Design Process
 
-This project demonstrates my ability to take data from raw ingestion to model deployment/analysis.
+When building my personal portfolio and featured projects (like my Mobile Banking and eBay concepts), I followed a structured UI/UX framework:
 
-## 🛠 Tech Stack
-* **Languages:** Python
-* **Frameworks/Libraries:** [e.g., PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Scikit-Learn]
-* **Developer Tools:** Git, Jupyter Notebook, VS Code
-* **Deployment/UI (if applicable):** [e.g., Streamlit, Flask, FastAPI]
+1. **Research & Ideation:** Defining user pain points in data visualization and complex applications.
+2. **Wireframing & Prototyping:** Mapping out layouts to ensure data is scannable and easy to digest.
+3. **Visual Design & Launch:** Using Framer to build a responsive, high-performance web experience with fluid animations.
 
-## 📋 Key Features
-* **[Feature 1]:** [e.g., Real-time data preprocessing and missing value imputation.]
-* **[Feature 2]:** [e.g., Custom anchor box optimization for YOLOv5 object detection.]
-* **[Feature 3]:** [e.g., Interactive dashboard for visualizing model evaluation metrics.]
+➡️ **View the live, interactive design here:** [sudhanportfolio.framer.wiki](https://sudhanportfolio.framer.wiki/)
+
+---
+*© 2026 Sudhan. Designed with an eye for UX, engineered with a passion for Data.*
